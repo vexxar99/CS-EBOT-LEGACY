@@ -1,5 +1,4 @@
 # CS-EBOT-LEGACY
-Legacy one is fine tuned ebot 1.07
 
 AI Bot for Counter-Strike based on SyPB
 
